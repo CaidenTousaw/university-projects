@@ -1,0 +1,8 @@
+Hello! This is a program that will convert any supported units, those
+currently being, (length, weight, time, and temperature.) This program
+was coded by Caiden Tousaw.
+
+I do not permit this code to be used by anybody without proper permission by me.
+
+Contact:
+caiden.tousaw@brentwood.ca
