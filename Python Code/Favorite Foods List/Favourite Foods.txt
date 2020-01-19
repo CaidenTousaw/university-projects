@@ -1,0 +1,5 @@
+This is a program that will create an empty list that will be filled with the "favorite foods"
+of whoever wants to use the program. This list can be filled with anything, but is supposed to be for food.
+This program has a couple interesting things though, seeing as if you type 'list,' it will show your list
+and then will go back to asking for things to append. You can also type 'stop,' which will stop adding to
+the list, and print your final list.
